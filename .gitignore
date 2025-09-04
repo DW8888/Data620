@@ -1,0 +1,35 @@
+# History files
+.Rhistory
+.RData
+.Rproj.user/
+
+# R Markdown
+*.utf8.md
+*.knit.md
+
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.sav
+*.dta
+*.RData
+*.rds
+*.rda
+
+# Other
+.DS_Store
+Thumbs.db
+*.log
+*.aux
+*.out
+*.toc
+*.pdf
+*.zip
