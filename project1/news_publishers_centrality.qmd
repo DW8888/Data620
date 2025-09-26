@@ -108,7 +108,7 @@ plt.show()
 We can try understand how central a source is by how of often other nodes refrence it, to do this we can calculate diffrent centralites.
 
 | Metric | Layman's Definition |
-|-----------------|-------------------------------------------------------|
+|----|----|
 | Degree Centrality | How many direct connections a source has to others (both incoming and outgoing). |
 | In-Degree Centrality | How often a source is referenced or cited by others. |
 | Out-Degree Centrality | How often a source references or cites other sources. |
