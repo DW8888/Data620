@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-26">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="media" type="string" />
+      <attribute id="1" title="media.type" type="long" />
+      <attribute id="2" title="type.label" type="string" />
+      <attribute id="3" title="audience.size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="s01" label="s01">
+        <attvalues>
+          <attvalue for="0" value="NY Times" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="Newspaper" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </node>
+      <node id="s02" label="s02">
+        <attvalues>
+          <attvalue for="0" value="Washington Post" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="Newspaper" />
+          <attvalue for="3" value="25" />
+        </attvalues>
+      </node>
+      <node id="s03" label="s03">
+        <attvalues>
+          <attvalue for="0" value="Wall Street Journal" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="Newspaper" />
+          <attvalue for="3" value="30" />
+        </attvalues>
+      </node>
+      <node id="s04" label="s04">
+        <attvalues>
+          <attvalue for="0" value="USA Today" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="Newspaper" />
+          <attvalue for="3" value="32" />
+        </attvalues>
+      </node>
+      <node id="s11" label="s11">
+        <attvalues>
+          <attvalue for="0" value="BBC" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="TV" />
+          <attvalue for="3" value="34" />
+        </attvalues>
+      </node>
+      <node id="s05" label="s05">
+        <attvalues>
+          <attvalue for="0" value="LA Times" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="Newspaper" />
+          <attvalue for="3" value="20" />
+        </attvalues>
+      </node>
+      <node id="s15" label="s15">
+        <attvalues>
+          <attvalue for="0" value="NYTimes.com" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="Online" />
+          <attvalue for="3" value="24" />
+        </attvalues>
+      </node>
+      <node id="s06" label="s06">
+        <attvalues>
+          <attvalue for="0" value="New York Post" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="Newspaper" />
+          <attvalue for="3" value="50" />
+        </attvalues>
+      </node>
+      <node id="s17" label="s17">
+        <attvalues>
+          <attvalue for="0" value="AOL.com" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="Online" />
+          <attvalue for="3" value="33" />
+        </attvalues>
+      </node>
+      <node id="s08" label="s08">
+        <attvalues>
+          <attvalue for="0" value="MSNBC" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="TV" />
+          <attvalue for="3" value="34" />
+        </attvalues>
+      </node>
+      <node id="s09" label="s09">
+        <attvalues>
+          <attvalue for="0" value="FOX News" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="TV" />
+          <attvalue for="3" value="60" />
+        </attvalues>
+      </node>
+      <node id="s16" label="s16">
+        <attvalues>
+          <attvalue for="0" value="WashingtonPost.com" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="Online" />
+          <attvalue for="3" value="28" />
+        </attvalues>
+      </node>
+      <node id="s10" label="s10">
+        <attvalues>
+          <attvalue for="0" value="ABC" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="TV" />
+          <attvalue for="3" value="23" />
+        </attvalues>
+      </node>
+      <node id="s07" label="s07">
+        <attvalues>
+          <attvalue for="0" value="CNN" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="TV" />
+          <attvalue for="3" value="56" />
+        </attvalues>
+      </node>
+      <node id="s12" label="s12">
+        <attvalues>
+          <attvalue for="0" value="Yahoo News" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="Online" />
+          <attvalue for="3" value="33" />
+        </attvalues>
+      </node>
+      <node id="s13" label="s13">
+        <attvalues>
+          <attvalue for="0" value="Google News" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="Online" />
+          <attvalue for="3" value="23" />
+        </attvalues>
+      </node>
+      <node id="s14" label="s14">
+        <attvalues>
+          <attvalue for="0" value="Reuters.com" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="Online" />
+          <attvalue for="3" value="12" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="s01" target="s02" id="0" weight="12" type="hyperlink" />
+      <edge source="s01" target="s03" id="1" weight="22" type="hyperlink" />
+      <edge source="s01" target="s04" id="2" weight="21" type="hyperlink" />
+      <edge source="s01" target="s15" id="3" weight="20" type="mention" />
+      <edge source="s02" target="s03" id="4" weight="21" type="hyperlink" />
+      <edge source="s02" target="s01" id="5" weight="23" type="hyperlink" />
+      <edge source="s02" target="s10" id="6" weight="5" type="hyperlink" />
+      <edge source="s02" target="s09" id="7" weight="1" type="hyperlink" />
+      <edge source="s03" target="s04" id="8" weight="22" type="hyperlink" />
+      <edge source="s03" target="s01" id="9" weight="21" type="hyperlink" />
+      <edge source="s03" target="s12" id="10" weight="1" type="hyperlink" />
+      <edge source="s03" target="s10" id="11" weight="2" type="mention" />
+      <edge source="s03" target="s11" id="12" weight="1" type="hyperlink" />
+      <edge source="s03" target="s08" id="13" weight="4" type="hyperlink" />
+      <edge source="s03" target="s05" id="14" weight="1" type="hyperlink" />
+      <edge source="s04" target="s11" id="15" weight="22" type="mention" />
+      <edge source="s04" target="s03" id="16" weight="23" type="hyperlink" />
+      <edge source="s04" target="s06" id="17" weight="1" type="mention" />
+      <edge source="s04" target="s12" id="18" weight="3" type="hyperlink" />
+      <edge source="s04" target="s17" id="19" weight="2" type="mention" />
+      <edge source="s05" target="s15" id="20" weight="21" type="mention" />
+      <edge source="s05" target="s02" id="21" weight="21" type="hyperlink" />
+      <edge source="s05" target="s09" id="22" weight="2" type="hyperlink" />
+      <edge source="s05" target="s01" id="23" weight="1" type="mention" />
+      <edge source="s15" target="s01" id="24" weight="11" type="hyperlink" />
+      <edge source="s15" target="s06" id="25" weight="4" type="hyperlink" />
+      <edge source="s15" target="s04" id="26" weight="1" type="hyperlink" />
+      <edge source="s06" target="s17" id="27" weight="21" type="mention" />
+      <edge source="s06" target="s16" id="28" weight="21" type="hyperlink" />
+      <edge source="s17" target="s04" id="29" weight="4" type="hyperlink" />
+      <edge source="s08" target="s09" id="30" weight="12" type="mention" />
+      <edge source="s08" target="s07" id="31" weight="21" type="mention" />
+      <edge source="s08" target="s03" id="32" weight="2" type="hyperlink" />
+      <edge source="s09" target="s10" id="33" weight="21" type="mention" />
+      <edge source="s16" target="s17" id="34" weight="21" type="mention" />
+      <edge source="s16" target="s06" id="35" weight="23" type="hyperlink" />
+      <edge source="s10" target="s03" id="36" weight="2" type="hyperlink" />
+      <edge source="s07" target="s08" id="37" weight="22" type="mention" />
+      <edge source="s07" target="s10" id="38" weight="21" type="hyperlink" />
+      <edge source="s07" target="s14" id="39" weight="4" type="mention" />
+      <edge source="s07" target="s03" id="40" weight="1" type="mention" />
+      <edge source="s12" target="s13" id="41" weight="22" type="hyperlink" />
+      <edge source="s12" target="s14" id="42" weight="22" type="mention" />
+      <edge source="s12" target="s06" id="43" weight="2" type="mention" />
+      <edge source="s13" target="s12" id="44" weight="21" type="hyperlink" />
+      <edge source="s13" target="s17" id="45" weight="1" type="mention" />
+      <edge source="s14" target="s13" id="46" weight="21" type="mention" />
+      <edge source="s14" target="s11" id="47" weight="1" type="mention" />
+    </edges>
+  </graph>
+</gexf>
