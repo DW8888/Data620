@@ -7517,8 +7517,7 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="Spam-Classification-Using-Supervised-Learning:-A-Model-Comparison">Spam Classification Using Supervised Learning: A Model Comparison<a class="anchor-link" href="#Spam-Classification-Using-Supervised-Learning:-A-Model-Comparison">¶</a></h1><h3 id="Darwhin-Gomez">Darwhin Gomez<a class="anchor-link" href="#Darwhin-Gomez">¶</a></h3><h4 id="ONovember-20,-2025">ONovember 20, 2025<a class="anchor-link" href="#ONovember-20,-2025">¶</a></h4><p>Spam Classification Using Supervised Learning: A Model Comparison
-Spam detection is an essential task in digital communication, and supervised machine learning provides a reliable way to classify messages as spam or ham based on learned patterns. Using the UCI Spambase dataset, which contains numerical features derived from email content, this project compares multiple supervised learning algorithms to evaluate their ability to accurately detect spam. To ensure fair and robust model evaluation, we apply ten-fold cross-validation during training to identify the most effective models. The goal is to understand how different machine learning approaches perform on structured text-based features and determine which methods provide the strongest predictive accuracy for spam classification.</p>
+<h1 id="Spam-Classification-Using-Supervised-Learning:-A-Model-Comparison">Spam Classification Using Supervised Learning: A Model Comparison<a class="anchor-link" href="#Spam-Classification-Using-Supervised-Learning:-A-Model-Comparison">¶</a></h1><h3 id="Darwhin-Gomez">Darwhin Gomez<a class="anchor-link" href="#Darwhin-Gomez">¶</a></h3><h4 id="November-20,-2025">November 20, 2025<a class="anchor-link" href="#November-20,-2025">¶</a></h4><p>Spam detection is an essential task in digital communication, and supervised machine learning provides a reliable way to classify messages as spam or ham based on learned patterns. Using the UCI Spambase dataset, which contains numerical features derived from email content, this project compares multiple supervised learning algorithms to evaluate their ability to accurately detect spam. To ensure fair and robust model evaluation, we apply ten-fold cross-validation during training to identify the most effective models. The goal is to understand how different machine learning approaches perform on structured text-based features and determine which methods provide the strongest predictive accuracy for spam classification.</p>
 </div>
 </div>
 </div>
@@ -7722,7 +7721,7 @@ Name: proportion, dtype: float64
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>We see that  the class distribution is fairly balanced in both the training and testing sets, with approximately 60% of the messages labeled as non-spam (ham) and 40% labeled as spam. This balance is beneficial for model training, as it helps prevent bias towards one class and allows the models to learn patterns for both spam and ham effectively.</p>
+<p>We see that the class distribution is fairly balanced in both the training and testing sets, with approximately 60% of the messages labeled as non-spam (ham) and 40% labeled as spam. This balance is beneficial for model training, as it helps prevent bias towards one class and allows the models to learn patterns for both spam and ham effectively.</p>
 </div>
 </div>
 </div>
@@ -7885,7 +7884,7 @@ Name: proportion, dtype: float64
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="Preprocessing">Preprocessing<a class="anchor-link" href="#Preprocessing">¶</a></h2><p>Before training the models, the data must be preprocessed to ensure that all algorithms operate on comparable input scales. The Spambase dataset contains numeric frequency-based features with substantial right skew and differing ranges, so standardization is an important step for models that rely on distance metrics or gradient-based optimization. In this stage, we  apply StandardScaler to transform the features so that each has mean 0 and standard deviation 1. This helps stabilize the training process for algorithms such as logistic regression, support vector machines, and neural methods, while also ensuring fair comparison across models. Tree-based models are less sensitive to feature scaling but can still benefit from consistent preprocessing. After scaling, the processed training and test sets are ready for cross-validation and model fitting.</p>
+<h2 id="Preprocessing">Preprocessing<a class="anchor-link" href="#Preprocessing">¶</a></h2><p>Before training the models, the data must be preprocessed to ensure that all algorithms operate on comparable input scales. The Spambase dataset contains numeric frequency-based features with substantial right skew and differing ranges, so standardization is an important step for models that rely on distance metrics or gradient-based optimization. In this stage, we apply StandardScaler to transform the features so that each has mean 0 and standard deviation 1. This helps stabilize the training process for algorithms such as logistic regression, support vector machines, and neural methods, while also ensuring fair comparison across models. Tree-based models are less sensitive to feature scaling but can still benefit from consistent preprocessing. After scaling, the processed training and test sets are ready for cross-validation and model fitting.</p>
 </div>
 </div>
 </div>
@@ -8102,7 +8101,7 @@ Name: proportion, dtype: float64
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [148]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># define models</span>
@@ -8150,7 +8149,7 @@ Name: proportion, dtype: float64
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [149]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">cv_results</span><span class="p">)</span>
@@ -8168,12 +8167,12 @@ Name: proportion, dtype: float64
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>                  Model  Accuracy  Precision    Recall        F1
 7               XGBoost  0.955362   0.945761  0.941127  0.943270
-1         Random Forest  0.953333   0.951538  0.928611  0.937697
-6  Neural Network (MLP)  0.940580   0.924950  0.919771  0.923674
+1         Random Forest  0.954203   0.949925  0.924935  0.939581
 2              AdaBoost  0.938261   0.932554  0.909472  0.920627
+6  Neural Network (MLP)  0.936812   0.930827  0.918306  0.919821
 5             SVM (RBF)  0.933623   0.936095  0.893273  0.913625
 3   Logistic Regression  0.923478   0.921909  0.880773  0.900500
-0         Decision Tree  0.903188   0.870551  0.888873  0.881908
+0         Decision Tree  0.902609   0.866293  0.887391  0.880805
 4           Naive Bayes  0.817101   0.694697  0.956574  0.804734
 </pre>
 </div>
@@ -9067,7 +9066,7 @@ document.querySelectorAll('.fa-regular.fa-copy').forEach(function(element) {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h3 id="Evaluation-Metrics-for-XGBoost--and-Random-Forest-on-Test-Set">Evaluation Metrics for XGBoost  and Random Forest on Test Set<a class="anchor-link" href="#Evaluation-Metrics-for-XGBoost--and-Random-Forest-on-Test-Set">¶</a></h3>
+<h3 id="Evaluation-Metrics-for-XGBoost-and-Random-Forest-on-Test-Set">Evaluation Metrics for XGBoost and Random Forest on Test Set<a class="anchor-link" href="#Evaluation-Metrics-for-XGBoost-and-Random-Forest-on-Test-Set">¶</a></h3>
 </div>
 </div>
 </div>
