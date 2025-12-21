@@ -1,4 +1,97 @@
 id,job_label,company,skills_dictionary,skill_name,skill_category
+1637,Solutions Architect @ Insight Global,Insight Global,"('Api', 'Software_Development_Engineering')",Api,Software_Development_Engineering
+1631,Azure Cloud Solutions Architect @ Jobot,Jobot,"('Microservices', 'Software_Development_Engineering')",Microservices,Software_Development_Engineering
+1627,"Senior WW Specialist Solutions Architect - Amazon Connect (Contact Center Solutions WFM, CRM), AWS WWSO Apps @ Amazon Web Services, Inc.","Amazon Web Services, Inc.","('Aws', 'MLOps_DevOps_Cloud')",Aws,MLOps_DevOps_Cloud
+1627,"Senior WW Specialist Solutions Architect - Amazon Connect (Contact Center Solutions WFM, CRM), AWS WWSO Apps @ Amazon Web Services, Inc.","Amazon Web Services, Inc.","('Go', 'Software_Development_Engineering')",Go,Software_Development_Engineering
+1626,Senior Azure Pre-Sales Solutions Architect (East) (RapidScale) @ Cox Communications,Cox Communications,"('Aws', 'MLOps_DevOps_Cloud')",Aws,MLOps_DevOps_Cloud
+1625,Senior AWS Pre-Sales Solutions Architect (East) (RapidScale) @ Cox Communications,Cox Communications,"('Aws', 'MLOps_DevOps_Cloud')",Aws,MLOps_DevOps_Cloud
+1623,Lead Healthcare Solutions Architect (RapidScale) @ Cox Communications,Cox Communications,"('Aws', 'MLOps_DevOps_Cloud')",Aws,MLOps_DevOps_Cloud
+1622,Senior Solutions Architect (RapidScale) @ Cox Communications,Cox Communications,"('Aws', 'MLOps_DevOps_Cloud')",Aws,MLOps_DevOps_Cloud
+1620,Solutions Architect @ Vantor,Vantor,"('Go', 'Software_Development_Engineering')",Go,Software_Development_Engineering
+1615,Solutions Architect @ Insight Global,Insight Global,"('Api', 'Software_Development_Engineering')",Api,Software_Development_Engineering
+1609,Azure Cloud Solutions Architect @ Jobot,Jobot,"('Microservices', 'Software_Development_Engineering')",Microservices,Software_Development_Engineering
+1605,"Senior WW Specialist Solutions Architect - Amazon Connect (Contact Center Solutions WFM, CRM), AWS WWSO Apps @ Amazon Web Services, Inc.","Amazon Web Services, Inc.","('Aws', 'MLOps_DevOps_Cloud')",Aws,MLOps_DevOps_Cloud
+1605,"Senior WW Specialist Solutions Architect - Amazon Connect (Contact Center Solutions WFM, CRM), AWS WWSO Apps @ Amazon Web Services, Inc.","Amazon Web Services, Inc.","('Go', 'Software_Development_Engineering')",Go,Software_Development_Engineering
+1604,Senior Azure Pre-Sales Solutions Architect (East) (RapidScale) @ Cox Communications,Cox Communications,"('Aws', 'MLOps_DevOps_Cloud')",Aws,MLOps_DevOps_Cloud
+1603,Senior AWS Pre-Sales Solutions Architect (East) (RapidScale) @ Cox Communications,Cox Communications,"('Aws', 'MLOps_DevOps_Cloud')",Aws,MLOps_DevOps_Cloud
+1601,Lead Healthcare Solutions Architect (RapidScale) @ Cox Communications,Cox Communications,"('Aws', 'MLOps_DevOps_Cloud')",Aws,MLOps_DevOps_Cloud
+1600,Senior Solutions Architect (RapidScale) @ Cox Communications,Cox Communications,"('Aws', 'MLOps_DevOps_Cloud')",Aws,MLOps_DevOps_Cloud
+1598,Solutions Architect @ Vantor,Vantor,"('Go', 'Software_Development_Engineering')",Go,Software_Development_Engineering
+1595,Cyber Security Analyst @ PingWind,PingWind,"('R', 'Programming_Tools')",R,Programming_Tools
+1595,Cyber Security Analyst @ PingWind,PingWind,"('Life Insurance', 'Insurance_Risk_Underwriting')",Life Insurance,Insurance_Risk_Underwriting
+1595,Cyber Security Analyst @ PingWind,PingWind,"('Supply Chain', 'General_Business_Analytical')",Supply Chain,General_Business_Analytical
+1595,Cyber Security Analyst @ PingWind,PingWind,"('System Design', 'Software_Development_Engineering')",System Design,Software_Development_Engineering
+1593,Cyber Security Analyst @ JCS Solutions,JCS Solutions,"('Life Insurance', 'Insurance_Risk_Underwriting')",Life Insurance,Insurance_Risk_Underwriting
+1593,Cyber Security Analyst @ JCS Solutions,JCS Solutions,"('Communication Skills', 'Soft_Skills_Misc')",Communication Skills,Soft_Skills_Misc
+1593,Cyber Security Analyst @ JCS Solutions,JCS Solutions,"('Cloud Computing', 'Software_Development_Engineering')",Cloud Computing,Software_Development_Engineering
+1590,Cyber Security Analyst @ MicroHealth,MicroHealth,"('Problem Solving', 'Soft_Skills_Misc')",Problem Solving,Soft_Skills_Misc
+1588,"Cyber Security Analyst @ MicroHealth, LLC","MicroHealth, LLC","('Problem Solving', 'Soft_Skills_Misc')",Problem Solving,Soft_Skills_Misc
+1580,Cyber Security Analyst @ Exeter Government Servi,Exeter Government Servi,"('Provider', 'Healthcare_Pharma_Biotech')",Provider,Healthcare_Pharma_Biotech
+1578,Cyber Security Analyst @ St. Claire Regional Medical Center,St. Claire Regional Medical Center,"('Agile', 'Software_Development_Engineering')",Agile,Software_Development_Engineering
+1576,Cyber Security Analyst @ Armison Tech,Armison Tech,"('Python', 'Programming_Tools')",Python,Programming_Tools
+1576,Cyber Security Analyst @ Armison Tech,Armison Tech,"('Excel', 'Productivity_Tools')",Excel,Productivity_Tools
+1574,Cyber Security Analyst @ Tactibit Technologies,Tactibit Technologies,"('Python', 'Programming_Tools')",Python,Programming_Tools
+1574,Cyber Security Analyst @ Tactibit Technologies,Tactibit Technologies,"('Aws', 'MLOps_DevOps_Cloud')",Aws,MLOps_DevOps_Cloud
+1574,Cyber Security Analyst @ Tactibit Technologies,Tactibit Technologies,"('Jira', 'Productivity_Tools')",Jira,Productivity_Tools
+1570,Cyber Security Analyst @ E-Infosol Llc,E-Infosol Llc,"('Aws', 'MLOps_DevOps_Cloud')",Aws,MLOps_DevOps_Cloud
+1570,Cyber Security Analyst @ E-Infosol Llc,E-Infosol Llc,"('Regulatory Compliance', 'Insurance_Risk_Underwriting')",Regulatory Compliance,Insurance_Risk_Underwriting
+1570,Cyber Security Analyst @ E-Infosol Llc,E-Infosol Llc,"('Cloud Computing', 'Software_Development_Engineering')",Cloud Computing,Software_Development_Engineering
+1566,Cyber Security Analyst @ Genoa Employment Solutions,Genoa Employment Solutions,"('Python', 'Programming_Tools')",Python,Programming_Tools
+1566,Cyber Security Analyst @ Genoa Employment Solutions,Genoa Employment Solutions,"('Java', 'Programming_Tools')",Java,Programming_Tools
+1566,Cyber Security Analyst @ Genoa Employment Solutions,Genoa Employment Solutions,"('Agile', 'Software_Development_Engineering')",Agile,Software_Development_Engineering
+1566,Cyber Security Analyst @ Genoa Employment Solutions,Genoa Employment Solutions,"('Go', 'Software_Development_Engineering')",Go,Software_Development_Engineering
+1558,Cyber Security Analyst @ JCS Solutions LLC,JCS Solutions LLC,"('Life Insurance', 'Insurance_Risk_Underwriting')",Life Insurance,Insurance_Risk_Underwriting
+1558,Cyber Security Analyst @ JCS Solutions LLC,JCS Solutions LLC,"('Communication Skills', 'Soft_Skills_Misc')",Communication Skills,Soft_Skills_Misc
+1558,Cyber Security Analyst @ JCS Solutions LLC,JCS Solutions LLC,"('Cloud Computing', 'Software_Development_Engineering')",Cloud Computing,Software_Development_Engineering
+1556,"Cyber Security Analyst @ MicroHealth, LLC","MicroHealth, LLC","('Problem Solving', 'Soft_Skills_Misc')",Problem Solving,Soft_Skills_Misc
+1552,Cyber Security Analyst @ OSC Global,OSC Global,"('Communication Skills', 'Soft_Skills_Misc')",Communication Skills,Soft_Skills_Misc
+1552,Cyber Security Analyst @ OSC Global,OSC Global,"('Critical Thinking', 'Soft_Skills_Misc')",Critical Thinking,Soft_Skills_Misc
+1552,Cyber Security Analyst @ OSC Global,OSC Global,"('Agile', 'Software_Development_Engineering')",Agile,Software_Development_Engineering
+1552,Cyber Security Analyst @ OSC Global,OSC Global,"('Excel', 'Productivity_Tools')",Excel,Productivity_Tools
+1552,Cyber Security Analyst @ OSC Global,OSC Global,"('Powerpoint', 'Productivity_Tools')",Powerpoint,Productivity_Tools
+1552,Cyber Security Analyst @ OSC Global,OSC Global,"('Word', 'Productivity_Tools')",Word,Productivity_Tools
+1550,Cyber Security Analyst @ Zone IT Solutions,Zone IT Solutions,"('Communication Skills', 'Soft_Skills_Misc')",Communication Skills,Soft_Skills_Misc
+1550,Cyber Security Analyst @ Zone IT Solutions,Zone IT Solutions,"('Agile', 'Software_Development_Engineering')",Agile,Software_Development_Engineering
+1533,Cyber Security Analyst with Security Clearance @ Leidos,Leidos,"('R', 'Programming_Tools')",R,Programming_Tools
+1530,Cyber Security Analyst with Security Clearance @ Leidos,Leidos,"('R', 'Programming_Tools')",R,Programming_Tools
+1529,Cyber Security Analyst with Security Clearance @ Leidos,Leidos,"('R', 'Programming_Tools')",R,Programming_Tools
+1526,Cyber Security Analyst with Security Clearance @ Leidos,Leidos,"('R', 'Programming_Tools')",R,Programming_Tools
+1525,Cyber Security Analyst with Security Clearance @ MANTECH,MANTECH,"('Logistics', 'General_Business_Analytical')",Logistics,General_Business_Analytical
+1522,Cyber Security Analyst with Security Clearance @ MANTECH,MANTECH,"('Logistics', 'General_Business_Analytical')",Logistics,General_Business_Analytical
+1511,Principal Cyber Security Analyst - Threat Hunter @ Mission Support and Test Services,Mission Support and Test Services,"('Experimentation', 'General_Business_Analytical')",Experimentation,General_Business_Analytical
+1508,Principal Cyber Security Analyst - Threat Hunter @ Mission Support and Test Services,Mission Support and Test Services,"('Experimentation', 'General_Business_Analytical')",Experimentation,General_Business_Analytical
+1498,Senior Cyber Security Analyst @ ASRC Federal Holding Company,ASRC Federal Holding Company,"('Provider', 'Healthcare_Pharma_Biotech')",Provider,Healthcare_Pharma_Biotech
+1497,Senior Cyber Security Analyst @ ASRC Federal Holding Company,ASRC Federal Holding Company,"('Provider', 'Healthcare_Pharma_Biotech')",Provider,Healthcare_Pharma_Biotech
+1486,Computer Scientists @ Artera Technologies,Artera Technologies,"('Python', 'Programming_Tools')",Python,Programming_Tools
+1486,Computer Scientists @ Artera Technologies,Artera Technologies,"('Machine Learning', 'Machine_Learning_and_Artificial_Intelligence')",Machine Learning,Machine_Learning_and_Artificial_Intelligence
+1485,"Software Engineer / Computer Scientist with Security Clearance @ Systems Application & Technologies, Inc.","Systems Application & Technologies, Inc.","('Logistics', 'General_Business_Analytical')",Logistics,General_Business_Analytical
+1484,Cryptologic Computer Scientist-2 with Security Clearance @ Leidos,Leidos,"('R', 'Programming_Tools')",R,Programming_Tools
+1474,Cryptologic Computer Scientist with Security Clearance @ Markon,Markon,"('Excel', 'Productivity_Tools')",Excel,Productivity_Tools
+1466,High Performance Computing (HPC) Computational Scientist @ General Dynamics Information Technology,General Dynamics Information Technology,"('Python', 'Programming_Tools')",Python,Programming_Tools
+1458,COMPUTER SCIENTIST with Security Clearance @ Department of Defense,Department of Defense,"('Computer Vision', 'Machine_Learning_and_Artificial_Intelligence')",Computer Vision,Machine_Learning_and_Artificial_Intelligence
+1458,COMPUTER SCIENTIST with Security Clearance @ Department of Defense,Department of Defense,"('Experimentation', 'General_Business_Analytical')",Experimentation,General_Business_Analytical
+1457,COMPUTER SCIENTIST with Security Clearance @ Department of the Navy,Department of the Navy,"('Computer Vision', 'Machine_Learning_and_Artificial_Intelligence')",Computer Vision,Machine_Learning_and_Artificial_Intelligence
+1457,COMPUTER SCIENTIST with Security Clearance @ Department of the Navy,Department of the Navy,"('Experimentation', 'General_Business_Analytical')",Experimentation,General_Business_Analytical
+1450,Senior Computer Scientist @ KBR,KBR,"('Sec', 'Finance_Fintech_Banking')",Sec,Finance_Fintech_Banking
+1447,"Applied Scientist, AGI @ Amazon",Amazon,"('Reinforcement Learning', 'Machine_Learning_and_Artificial_Intelligence')",Reinforcement Learning,Machine_Learning_and_Artificial_Intelligence
+1443,Applied Scientist @ Amazon,Amazon,"('Reinforcement Learning', 'Machine_Learning_and_Artificial_Intelligence')",Reinforcement Learning,Machine_Learning_and_Artificial_Intelligence
+1442,Applied Scientist @ Microsoft Corporation,Microsoft Corporation,"('Cloud Computing', 'Software_Development_Engineering')",Cloud Computing,Software_Development_Engineering
+1440,Applied Scientist @ Microsoft Corporation,Microsoft Corporation,"('Machine Learning', 'Machine_Learning_and_Artificial_Intelligence')",Machine Learning,Machine_Learning_and_Artificial_Intelligence
+1415,Carpenter @ ManpowerGroup,ManpowerGroup,"('Communication Skills', 'Soft_Skills_Misc')",Communication Skills,Soft_Skills_Misc
+1414,Carpenter @ KBR,KBR,"('Logistics', 'General_Business_Analytical')",Logistics,General_Business_Analytical
+1409,Construction Production Manager @ Nelson Builders,Nelson Builders,"('Excel', 'Productivity_Tools')",Excel,Productivity_Tools
+1389,Account Manager @ Mazzella Companies,Mazzella Companies,"('Life Insurance', 'Insurance_Risk_Underwriting')",Life Insurance,Insurance_Risk_Underwriting
+1389,Account Manager @ Mazzella Companies,Mazzella Companies,"('Communication Skills', 'Soft_Skills_Misc')",Communication Skills,Soft_Skills_Misc
+1389,Account Manager @ Mazzella Companies,Mazzella Companies,"('Detail Oriented', 'Soft_Skills_Misc')",Detail Oriented,Soft_Skills_Misc
+1388,Construction Accountant HUD IHBG Program @ Long & Associates,Long & Associates,"('Communication Skills', 'Soft_Skills_Misc')",Communication Skills,Soft_Skills_Misc
+1388,Construction Accountant HUD IHBG Program @ Long & Associates,Long & Associates,"('Excel', 'Productivity_Tools')",Excel,Productivity_Tools
+1387,Head of Business Development (Banking Products) (Palo Alto) @ HashCash Consultants,HashCash Consultants,"('Communication Skills', 'Soft_Skills_Misc')",Communication Skills,Soft_Skills_Misc
+1387,Head of Business Development (Banking Products) (Palo Alto) @ HashCash Consultants,HashCash Consultants,"('Excel', 'Productivity_Tools')",Excel,Productivity_Tools
+1387,Head of Business Development (Banking Products) (Palo Alto) @ HashCash Consultants,HashCash Consultants,"('Powerpoint', 'Productivity_Tools')",Powerpoint,Productivity_Tools
+1387,Head of Business Development (Banking Products) (Palo Alto) @ HashCash Consultants,HashCash Consultants,"('Word', 'Productivity_Tools')",Word,Productivity_Tools
+1386,Regional Energy Services Sales Leader @ Trane Technologies,Trane Technologies,"('Go', 'Software_Development_Engineering')",Go,Software_Development_Engineering
+1384,Senior Acccount Manager @ Mc2,Mc2,"('Life Insurance', 'Insurance_Risk_Underwriting')",Life Insurance,Insurance_Risk_Underwriting
+1384,Senior Acccount Manager @ Mc2,Mc2,"('Teamwork', 'Soft_Skills_Misc')",Teamwork,Soft_Skills_Misc
 1370,Data Scientist @ Insight Global,Insight Global,"('Machine Learning', 'Machine_Learning_and_Artificial_Intelligence')",Machine Learning,Machine_Learning_and_Artificial_Intelligence
 1370,Data Scientist @ Insight Global,Insight Global,"('Nlp', 'Machine_Learning_and_Artificial_Intelligence')",Nlp,Machine_Learning_and_Artificial_Intelligence
 1367,Data Scientist @ Manulife,Manulife,"('Mlops', 'MLOps_DevOps_Cloud')",Mlops,MLOps_DevOps_Cloud
